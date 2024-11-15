@@ -136,10 +136,11 @@ font-size: 15px;
    }
 
    form{ position: absolute;
-    margin-left:- 10px;
-    width: 85px;
-    max-height: 1000px;
+
+   max-width: 75%;
+
 background: rgba(0, 0, 0, 0.384);
+left: -200px;
 
 
 
@@ -148,7 +149,7 @@ background: rgba(0, 0, 0, 0.384);
 
 img{
     max-width: 50vh;
-    max-height: 100%;
+    max-height: 50%;
 }
 
 
