@@ -46,6 +46,7 @@ form{ border: none);
 h1{
     font-size: 44px;
     color: rgb(0, 0, 0);
+   
 }
 
 button{
@@ -141,6 +142,7 @@ font-size: 15px;
 
 background: rgba(0, 0, 0, 0.384);
 left: -200px;
+top: -12px;
 
 
 
@@ -182,6 +184,13 @@ button{
 .titulo{
     position: relative;
     top: 0;
+
+}
+
+.senha1{
+    position: absolute;
+    left: -60px;
+
 
 }
 
