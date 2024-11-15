@@ -131,14 +131,15 @@ font-size: 15px;
 @media screen and (max-width:500px){
 
    main{
-    display: block;
+    display: inline-block;
    }
 
-   form{ width: 85%;
+   form{ width: 85px;
     max-height: 1000px;
 background: rgba(0, 0, 0, 0.384);
-position: relative;
-}
+  
+
+
 
 
 
