@@ -84,9 +84,10 @@ body{
    margin-top: 5px;
 }
 
-.senha1{position: relative;
-    margin-left: 96px;
+.senha1{position: absolute;
+    margin-left: 10px;
     margin-top: 24px;
+    visibility: hidden;
    
 }
 
@@ -186,12 +187,12 @@ button{
 
 .senha1{
     position: absolute;
-    left: -60px;}
-
-
-
+    left: -60px;
+visibility: visible;}
 
 }
+
+
 
 
 
