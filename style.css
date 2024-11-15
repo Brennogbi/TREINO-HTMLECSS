@@ -134,9 +134,15 @@ font-size: 15px;
     display: block;
    }
 
-   form{ max-width: 85%;
+   form{ width: 85%;
     max-height: 1000px;
-background: rgba(0, 0, 0, 0.384);}
+background: rgba(0, 0, 0, 0.384);
+position: relative;
+}
+
+
+
+
 p{  color: aliceblue;
     font-size: 10px}
 
