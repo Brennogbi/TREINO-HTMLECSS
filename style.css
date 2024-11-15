@@ -16,7 +16,7 @@ main{ display: flex;
 
 
 
-form{ border: 1px solid rgb(0, 0, 0);
+form{ border: none);
    text-align: center; 
    margin-left:240px;
    margin-top: 70px;
@@ -137,7 +137,7 @@ font-size: 15px;
 
    form{ position: absolute;
 
-   max-width: 75%;
+   max-width: 80%;
 
 background: rgba(0, 0, 0, 0.384);
 left: -200px;
