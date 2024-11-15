@@ -131,13 +131,20 @@ font-size: 15px;
 @media screen and (max-width:500px){
 
    main{
-    display: inline-block;
+    display: flex;
+    justify-content: center;
    }
 
-   form{ width: 85px;
+   form{ position: absolute;
+    margin-left:- 10px;
+    width: 85px;
     max-height: 1000px;
 background: rgba(0, 0, 0, 0.384);
-  
+
+
+
+}
+
 
 
 
@@ -148,7 +155,7 @@ p{  color: aliceblue;
     font-size: 10px}
 
 .caixa{
-    max-width: 200px;  
+    max-width: 250px;  
  
 }
 
@@ -156,16 +163,13 @@ p{  color: aliceblue;
     color: aliceblue;
 }
 button{
-    max-width: 200px;
+    max-width: 250px;
 }
 
 
 
 
-img{position: absolute;
-    max-width: 100%;
-    top: 0;
-    z-index: -3;
+
 
 
     
