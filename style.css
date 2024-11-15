@@ -84,7 +84,7 @@ body{
    margin-top: 5px;
 }
 
-.senha1{position: absolute;
+.senha1{position: relative;
     margin-left: 96px;
     margin-top: 24px;
    
@@ -143,9 +143,6 @@ font-size: 15px;
 background: rgba(0, 0, 0, 0.384);
 left: -210px;
 top: -35px;
-
-
-
 }
 
 
@@ -179,7 +176,7 @@ button{
 
 
     
-}
+
 
 .titulo{
     position: relative;
@@ -189,38 +186,35 @@ button{
 
 .senha1{
     position: absolute;
-    left: -60px;
-
-
-}
-
-
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    left: -60px;}
 
 
 
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
